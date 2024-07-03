@@ -6,4 +6,4 @@ You can learn coding logic from my code but not a perfect work for auto grader.
 
 and again. I hate auto grader but btw, I love leetcode. 
 
-[![Cat GIF](https://media.tenor.com/images/.../tenor.gif)](https://tenor.com/view/cat-holding-head-cat-sad-cat-rahh-wahhhh-gif-11843610789762008433)
+[![](https://tenor.com/view/cat-holding-head-cat-sad-cat-rahh-wahhhh-gif-11843610789762008433)
