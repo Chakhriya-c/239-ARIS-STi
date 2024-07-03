@@ -2,12 +2,15 @@ import math
 
 impact_duration = float(input("Impact duration (s): "))
 effective_weight = float(input("Effective weight (kg): "))
-effective_lenght = float(input("Impact lenght (m): "))
-blow_exec = float(input("Blow execution time (s): "))
+effective_length = float(input("Effective length (m): "))
+blow_execution_time = float(input("Blow execution time (s): "))
 
-ang_velocity = (2 * math.pi) / blow_exec 
-impact_velo = ang_velocity * effective_lenght
-impact_force = (effective_weight * impact_velo) / impact_duration
+angular_velocity = (2 * math.pi) / blow_execution_time
+impact_velocity = angular_velocity * effective_length
+impact_force = (effective_weight * impact_velocity) / impact_duration
 
-print ("v = {:,.2f} km/h = {:,.2f} mph".format(impact_velo * 3.6, impact_velo * 2.23694))
-print ("f = {:,.2f} N = {:,.2f} lbf".format(impact_force, impact_force / 4.45))
+impact_velocity_kmh = impact_velocity * 3.6
+impact_velocity_mph = impact_velocity_kmh * 0.62111801242
+
+print("v = {:,.2f} km/h = {:,.2f} mph".format(impact_velocity_kmh, impact_velocity_mph))
+print("f = {:,.2f} N = {:,.2f} lbf".format(impact_force, impact_force / 4.45))
