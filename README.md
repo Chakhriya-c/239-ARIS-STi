@@ -8,6 +8,6 @@ and again. I hate auto grader but btw, I love leetcode.
 
 ![](https://c.tenor.com/pFz1Q12_hXEAAAAd/tenor.gif)
 
-### status 
+## Assignment Status 
 
-[li] hw1 : 12600.0 / 12600.0
+1. HW1 : 12600.0 / 12600.0
