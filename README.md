@@ -7,3 +7,7 @@ You can learn coding logic from my code but not a perfect work for auto grader.
 and again. I hate auto grader but btw, I love leetcode. 
 
 ![](https://c.tenor.com/pFz1Q12_hXEAAAAd/tenor.gif)
+
+### status 
+
+[li] hw1 : 12600.0 / 12600.0
