@@ -1,4 +1,4 @@
-# Welcome ARISian, I hate auto grader.
+# Welcome, I hate auto grader.
 
 This repository contains homework assignments for ARIS Special Topic in Intelligence System. Each folder corresponds to a specific assignment or homework.
 
